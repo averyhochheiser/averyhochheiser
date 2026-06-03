@@ -1,10 +1,7 @@
 ## 👾⋆˚☆˖°👾 Hi, I'm Avery 👾⋆˚☆˖°👾
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThnMzNnNTE0b3U3ZWc4aTNocHVxbzF4cXNvanB3ZTgyemR3dGRhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif" width="350"/>
-
-I'm a 3rd year Integrated Computer Science student at Trinity College Dublin. <br>
-I love math, security, and networking. I also enjoy working with<br>
-hardware and making sustainable projects. 👩🏻‍💻💻</>♻️ <br>
+I'm a final year Integrated Computer Science student at Trinity College Dublin. <br>
+Math, security, sustainability, and networking.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
